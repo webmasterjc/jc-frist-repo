@@ -1,3 +1,51 @@
+h1{
+        font-size: 150px;
+}
 h2{
         color: darkmagenta;
+}
+.first-page{
+        display: flex;
+
+}
+
+section{
+        font-family: 'Alfa Slab One', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Staatliches', cursive;
+}
+.half-width{
+        width: 50%;
+        padding-left: 5%;
+        padding: right 5px%;
+        padding-top: 5%;
+        margin-left: 3%;
+            
+}
+
+.half-width-image{
+        width: 100%;
+        margin-top: 200px;
+        margin-left: 20%;
+       
+}
+.meat-color{
+        color: darkorange;
+
+}
+.eat-color{
+        color: rgb(85, 81, 81);
+}
+.making-color{
+        color: rgb(99, 93, 93);
+}
+.link-button{
+        text-decoration: none;
+        background-image: linear-gradient(tomato,salmon) ;
+        padding: 6% 6%;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        border-radius: 10px;
+        color:white;
+
 }
