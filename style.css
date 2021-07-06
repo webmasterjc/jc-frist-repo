@@ -88,6 +88,7 @@ font-family: 'Staatliches', cursive;
         color:white;
         font-size: 50px;
 
+
 }
 
 
@@ -215,8 +216,8 @@ font-family: 'Staatliches', cursive;
 
 .half-width-2-image{
         
-        margin-left: 100px;
-        padding-left: 10%;
+        margin-left: 150px;
+        padding-left: 5%;
         padding-top: 3%;
 }
 
@@ -235,5 +236,40 @@ font-family: 'Staatliches', cursive;
 .contact{
        margin: 10px;
        font-size: 20px;
+       padding-left: 5%;
+       padding-right: 20%;
+
+}
+
+
+
+
+
+.third-section{
+        text-align: center;
+        color: grey;
+}
+
+.oue-recipi{
+        
+        font-size: 35px;
+        color: grey;
+        
+
+}
+
+
+
+.forth-page{
+display: flex;
+}
+.four-div-one{
+        
+
+}
+.four-div-two{
+
+}
+.four-div-three{
 
 }
