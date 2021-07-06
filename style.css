@@ -1,27 +1,46 @@
-h1{
-        font-size: 120px;
+.meet{
+        font-size: 100px;
 }
+
+
+
+
+
 h2{
         color: darkmagenta;
 }
+
+
+
+
 .first-page{
         display: flex;
+        margin-bottom: 120px;
 
 }
+
+
+
 
 .section{
         font-family: 'Alfa Slab One', cursive;
 font-family: 'Anton', sans-serif;
 font-family: 'Staatliches', cursive;
 }
+
+
+
+
 .half-width{
         width: 50%;
         padding-left: 5%;
         
-        padding-top: 5%;
-       
-            
+        padding-top: 5%;         
 }
+
+
+
+
 
 .half-width-image{
         width: 100%;
@@ -30,16 +49,35 @@ font-family: 'Staatliches', cursive;
         margin-right: 5%;
        
 }
+
+
+
 .meat-color{
         color: darkorange;
 
 }
+
+
+
+
+
 .eat-color{
         color: rgb(85, 81, 81);
 }
+
+
+
+
+
 .making-color{
         color: rgb(99, 93, 93);
 }
+
+
+
+
+
+
 .link-button{
         text-decoration: none;
         background-image: linear-gradient(tomato,salmon) ;
@@ -51,6 +89,23 @@ font-family: 'Staatliches', cursive;
         font-size: 50px;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -60,58 +115,109 @@ font-family: 'Staatliches', cursive;
 h1{
         font-size: 120px;
 }
+
+
+
+
+
 h2{
         color: darkmagenta;
 }
+
+
+
+
+
 .second-page{
+        background-image: url(images/7.png);
+        background-repeat: no-repeat;
         display: flex;
 
 }
 
+
+
+
+
 section{
+
         font-family: 'Alfa Slab One', cursive;
 font-family: 'Anton', sans-serif;
 font-family: 'Staatliches', cursive;
 
-background-image: url(images);
+
 }
+
+
+
+
+
 .half-width-2{
+        
         width: 50%;
         padding-left: 5%;
         
-        padding-top: 5%;
-       
+        padding-top: 10%;
             
 }
 
-.half-width-image{
-        width: 100%;
-        margin-top: 200px;
-        padding-left: 10%;
-        margin-right: 5%;
-       
-}
+
+
+
+
+
+
 .meat-color{
         color: darkorange;
 
 }
+
+
+
+
+
 .eat-color{
         color: rgb(85, 81, 81);
 }
+
+
+
+
+
 .making-color{
         color: rgb(99, 93, 93);
 }
+
+
+
+
+
 .link-button{
         text-decoration: none;
         background-image: linear-gradient(tomato,salmon) ;
-        padding: 6% 6%;
-        padding-top: 2%;
-        padding-bottom: 2%;
-        border-radius: 10px;
+       
+        
+        border-radius: 50px;
         color:white;
         font-size: 50px;
+        margin-top: 100%;
 
 }
+
+
+
+
 .about-color{
         color: grey;
+}
+.half-width-2-image{
+        
+        margin-left: 100px;
+        padding-left: 10%;
+}
+.font{
+        font-size: 40px;
+}
+.making-color{
+        padding-bottom: 10%;
 }
