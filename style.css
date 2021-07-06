@@ -209,15 +209,31 @@ font-family: 'Staatliches', cursive;
 
 .about-color{
         color: grey;
+        font-size: 50px;
 }
+
+
 .half-width-2-image{
         
         margin-left: 100px;
         padding-left: 10%;
+        padding-top: 3%;
 }
+
+
 .font{
         font-size: 40px;
 }
+
+
 .making-color{
         padding-bottom: 10%;
+        padding-right: 40%;
+}
+
+
+.contact{
+       margin: 10px;
+       font-size: 20px;
+
 }
